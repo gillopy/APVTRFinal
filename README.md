@@ -10,20 +10,21 @@
 
 
 **Estructura del Repositorio:** 
-/Proyecto1
-|-- /data                 # Contiene los datos utilizados en el proyecto.
-|   |-- dataset.csv       # Archivo original con los datos de ventas.
-|-- /notebooks            # Notebooks para cada etapa del proyecto.
-|   |-- EDA.ipynb         # Análisis Exploratorio de Datos.
-|   |-- Preprocessing.ipynb  # Preprocesamiento y transformación de datos.
-|   |-- Benchmarking.ipynb   # Entrenamiento y comparación de modelos.
-|-- /reports              # Informes y visualizaciones clave generados.
-|   |-- classification_report.txt # Informe de clasificación.
-|   |-- confusion_matrix.png      # Imagen de la matriz de confusión.
-|   |-- roc_curve.png             # Curva ROC de los modelos evaluados.
-|-- /presentation         # Presentación final en formato PPT.
-|   |-- onepage_presentation.pptx # Resumen ejecutivo de una página.
-|-- README.md             # Documentación del proyecto.
+
+    /Proyecto1
+    |-- /data                 # Contiene los datos utilizados en el proyecto.
+    |   |-- dataset.csv       # Archivo original con los datos de ventas.
+    |-- /notebooks            # Notebooks para cada etapa del proyecto.
+    |   |-- EDA.ipynb         # Análisis Exploratorio de Datos.
+    |   |-- Preprocessing.ipynb  # Preprocesamiento y transformación de datos.
+    |   |-- Benchmarking.ipynb   # Entrenamiento y comparación de modelos.
+    |-- /reports              # Informes y visualizaciones clave generados.
+    |   |-- classification_report.txt # Informe de clasificación.
+    |   |-- confusion_matrix.png      # Imagen de la matriz de confusión.
+    |   |-- roc_curve.png             # Curva ROC de los modelos evaluados.
+    |-- /presentation         # Presentación final en formato PPT.
+    |   |-- onepage_presentation.pptx # Resumen ejecutivo de una página.
+    |-- README.md             # Documentación del proyecto.
 
 
 **Instrucciones para Ejecutar:** 
